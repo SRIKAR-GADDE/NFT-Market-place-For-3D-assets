@@ -1,6 +1,13 @@
-# Web3 Medical Invoice Lighthouse
+# NFT Marketplace for 3D Assets
 
-A decentralized medical invoicing application built with [Next.js](https://nextjs.org/) and [NEAR Protocol](https://near.org/).
+A decentralized NFT marketplace built for buying, selling, and trading 3D digital assets — powered by [Next.js](https://nextjs.org/) and [NEAR Protocol](https://near.org/).
+
+## Features
+
+- 🧊 Browse and trade 3D NFT assets
+- 🔗 NEAR blockchain integration
+- ⚡ Fast, modern UI with Next.js
+- 🌐 Fully decentralized ownership
 
 ## Getting Started
 
@@ -16,20 +23,38 @@ Run the development server:
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to see the app.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Tech Stack
+
+- [Next.js](https://nextjs.org/) — React framework
+- [NEAR Protocol](https://near.org/) — Blockchain & smart contracts
+- [next/font](https://nextjs.org/docs/basic-features/font-optimization) — Font optimization
 
 ## Resources
 
 ### NEAR
-- [NEAR Documentation](https://docs.near.org) — learn about NEAR Protocol
-- [Web3 Frontend Quickstart](https://docs.near.org/build/web3-apps/quickstart) — learn about this example
+- [NEAR Documentation](https://docs.near.org)
+- [Web3 Frontend Quickstart](https://docs.near.org/build/web3-apps/quickstart)
 
 ### Next.js
-- [Next.js Documentation](https://nextjs.org/docs) — features and API reference
-- [Learn Next.js](https://nextjs.org/learn) — interactive tutorial
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Learn Next.js](https://nextjs.org/learn)
 
 ## Deployment
 
-The easiest way to deploy is via [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme), the platform from the creators of Next.js.
+Deploy instantly with [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme):
 
-See the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```bash
+npm run build
+```
+
+See the [Next.js deployment docs](https://nextjs.org/docs/deployment) for more details.
+
+## Contributing
+
+Pull requests are welcome! Feel free to open an issue for bugs or feature requests.
+
+## License
+
+MIT
